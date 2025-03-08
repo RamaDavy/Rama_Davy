@@ -1,6 +1,6 @@
 # Rama_Davy
 Repository P.IMK
 
-kekmana sesuatu yang eye-catching sih?
+Link Github
 
-(;-;) <- hmmmm 
+**https://github.com/RamaDavy/Rama_Davy**
